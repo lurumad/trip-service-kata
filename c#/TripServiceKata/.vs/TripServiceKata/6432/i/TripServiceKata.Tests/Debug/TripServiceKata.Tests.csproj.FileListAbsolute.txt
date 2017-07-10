@@ -1,0 +1,1 @@
+C:\dev\trip-service-kata\c#\TripServiceKata\.vs\TripServiceKata\6432\i\TripServiceKata.Tests\Debug\TripServiceKata.Tests.csprojResolveAssemblyReference.cache

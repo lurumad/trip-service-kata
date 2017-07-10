@@ -1,0 +1,4 @@
+C:\dev\trip-service-kata\c#\TripServiceKata\.vs\TripServiceKata\6432\b\bin\Debug\TripServiceKata.dll
+C:\dev\trip-service-kata\c#\TripServiceKata\.vs\TripServiceKata\6432\b\bin\Debug\TripServiceKata.pdb
+C:\dev\trip-service-kata\c#\TripServiceKata\.vs\TripServiceKata\6432\i\TripServiceKata\Debug\TripServiceKata.dll
+C:\dev\trip-service-kata\c#\TripServiceKata\.vs\TripServiceKata\6432\i\TripServiceKata\Debug\TripServiceKata.pdb
